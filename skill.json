@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reasoning-formal-symbolic-proof-checker-skill",
+  "version": "1.0.0",
+  "description": "GenPark Reasoning Formal Symbolic Proof Checker - Zero-dependency propositional logic assertion and formal symbolic deduction validator.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "deepseek-r1",
+    "symbolic-logic",
+    "formal-verification",
+    "proof-checker",
+    "mcp"
+  ]
+}
